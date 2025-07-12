@@ -15,11 +15,14 @@
 ## Our First Game
 Its name: `MerLin`
 
-Initial concept: [PPT](https://stuxjtueducn-my.sharepoint.com/:p:/g/personal/107386162_stu_xjtu_edu_cn/EWRt_1nGBb9LpaPtFA0Pm08Bt9iMOaT9UDvXj8PTTdzUqA?e=IlFA5M)
+Game Pitch: [PPT](https://stuxjtueducn-my.sharepoint.com/:p:/g/personal/107386162_stu_xjtu_edu_cn/EWRt_1nGBb9LpaPtFA0Pm08Bt9iMOaT9UDvXj8PTTdzUqA?e=IlFA5M)
 
 Time spent:may be 9 days~🤔
 
 <mark style="background-color: yellow; color: red;">Tense and exciting !!! </mark>
+
+## 最终Work
+在Merlin_html.zip 中可下载。宣传片[戳这里](https://www.bilibili.com/video/BV1i5QBYBEwg/?share_source=copy_web&vd_source=426a18d350add97ab6b20a7ad2f3985f)
 
 
 
