@@ -9,6 +9,8 @@
 [戳这里了解详情](https://myuwbclasses.github.io/IntroGameDev-XJTU/)
 ## 课程作业
 两次Ex，三次Quiz
+* 第二次Ex文件过大，zzz
+* Quiz 内容未知
 
 `May the force be with you!` 😤
 
