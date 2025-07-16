@@ -26,6 +26,9 @@ Time spent:may be 9 days~🤔
 ## 最终Work
 在Merlin_html.zip 中可下载。宣传片[戳这里](https://www.bilibili.com/video/BV1i5QBYBEwg/?share_source=copy_web&vd_source=426a18d350add97ab6b20a7ad2f3985f)
 
+> Ars longa, vita brevis, occasio praeceps, experimentum periculosum, iudicium difficile   
+
+  ><cite>— Hippocrates</cite>
 
 
 
